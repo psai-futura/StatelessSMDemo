@@ -1,0 +1,17 @@
+C:\Dev\StatelessSMDemo\StatelessSMDemo\bin\Debug\net6.0\StatelessSMDemo.exe
+C:\Dev\StatelessSMDemo\StatelessSMDemo\bin\Debug\net6.0\StatelessSMDemo.deps.json
+C:\Dev\StatelessSMDemo\StatelessSMDemo\bin\Debug\net6.0\StatelessSMDemo.runtimeconfig.json
+C:\Dev\StatelessSMDemo\StatelessSMDemo\bin\Debug\net6.0\StatelessSMDemo.dll
+C:\Dev\StatelessSMDemo\StatelessSMDemo\bin\Debug\net6.0\StatelessSMDemo.pdb
+C:\Dev\StatelessSMDemo\StatelessSMDemo\bin\Debug\net6.0\Stateless.dll
+C:\Dev\StatelessSMDemo\StatelessSMDemo\obj\Debug\net6.0\StatelessSMDemo.csproj.AssemblyReference.cache
+C:\Dev\StatelessSMDemo\StatelessSMDemo\obj\Debug\net6.0\StatelessSMDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\StatelessSMDemo\StatelessSMDemo\obj\Debug\net6.0\StatelessSMDemo.AssemblyInfoInputs.cache
+C:\Dev\StatelessSMDemo\StatelessSMDemo\obj\Debug\net6.0\StatelessSMDemo.AssemblyInfo.cs
+C:\Dev\StatelessSMDemo\StatelessSMDemo\obj\Debug\net6.0\StatelessSMDemo.csproj.CoreCompileInputs.cache
+C:\Dev\StatelessSMDemo\StatelessSMDemo\obj\Debug\net6.0\StatelessSMDemo.csproj.CopyComplete
+C:\Dev\StatelessSMDemo\StatelessSMDemo\obj\Debug\net6.0\StatelessSMDemo.dll
+C:\Dev\StatelessSMDemo\StatelessSMDemo\obj\Debug\net6.0\refint\StatelessSMDemo.dll
+C:\Dev\StatelessSMDemo\StatelessSMDemo\obj\Debug\net6.0\StatelessSMDemo.pdb
+C:\Dev\StatelessSMDemo\StatelessSMDemo\obj\Debug\net6.0\StatelessSMDemo.genruntimeconfig.cache
+C:\Dev\StatelessSMDemo\StatelessSMDemo\obj\Debug\net6.0\ref\StatelessSMDemo.dll

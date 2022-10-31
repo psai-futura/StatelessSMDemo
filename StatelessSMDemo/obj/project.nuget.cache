@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h0RCFIfxJBlEG9Yn4JM7D3vVx+vhbyWQ9vNygXY8hiLSzqNt6p0TexqjNqUCSiuimQkMBWE8CtT6HPNAH3eL9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\StatelessSMDemo\\StatelessSMDemo\\StatelessSMDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p.sai\\.nuget\\packages\\stateless\\5.12.0\\stateless.5.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
